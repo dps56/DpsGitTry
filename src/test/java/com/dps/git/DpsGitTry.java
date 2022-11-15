@@ -7,7 +7,7 @@ public class DpsGitTry {
 	@Test
 	public void try_01() {
 		
-		System.out.println("ok");
+		System.out.println("jancsika");
 	}
 	
 	
